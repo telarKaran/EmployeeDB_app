@@ -22,8 +22,6 @@ The app provides the following API endpoints:
 * PUT /employees/{id} - Update an existing employee.
 * DELETE /employees/{id} - Delete an employee by id.
 
-For more details, see the API documentation in the Swagger UI at http://localhost:8080/swagger-ui.html.
-
 ## Frontend Usage
 
 The frontend of the app provides a simple UI for managing employee details. To use the frontend, follow these steps:
